@@ -1,5 +1,5 @@
 # Technical Assignment 2
-Week 5 - Machine Learning
+Week 6 - Machine Learning
 
 ```python
 from elysian import thinkers
